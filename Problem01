@@ -1,3 +1,5 @@
+/* If  a, b, c, d are positive integer with a sum (user entered value)
+what is the maximum value of   ab + bc + cd ? */
 
 import java.util.Scanner;
 
